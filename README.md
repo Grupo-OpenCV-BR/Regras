@@ -2,7 +2,7 @@
 
 <div align="center">
     <p align="center">
-    <img src="images/imag1.gif" width="250" height="200"/>
+    <img src="images/imag1.gif">
     </p>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
     <p align="center">
-    <img src="images/rules.gif" width="250" height="200"/>
+    <img src="images/imag2.gif"/>
     </p>
 </div>
 
@@ -20,6 +20,8 @@
 <h2>“Obras de arte fazem regras, mas as regras não fazem obras de arte.”</h2>
 Claude Debussy
 </div>
+
+***
 
 1. <b>Não seja um cuzão</b>: Essa não precisa de maiores explicações, não é?
 
