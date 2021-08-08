@@ -36,4 +36,6 @@ Claude Debussy
 
 6. Lembre-se que com grandes poderes vem grandes responsabilidades...
 
+7. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for. Em caso de dúvida leia a regra 5.
+
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
