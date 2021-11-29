@@ -38,4 +38,9 @@ Claude Debussy
 
 7. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for. Em caso de dúvida leia a regra 5.
 
+8. Seja direto ao ponto na sua dúvida. 
+    Exemplo: Eu tenho duvida em interface. 
+    Nesse caso defina o que tem dúvida em interface, ou seja, defina um ponto e relate sua dúvida.
+    Exemplo: Eu tenho dúvida qual melhor framework para interfaces.
+
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
