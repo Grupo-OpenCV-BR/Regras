@@ -25,7 +25,7 @@ Claude Debussy
 
 1. <b>Não seja um cuzão</b>: Essa não precisa de maiores explicações, não é?
 
-2. <b>Não chame os membros do grupo no privado sem consentimento prévio</b>: Ao fazer isso, você está violando a Regra nº 1. Se você tem um problema/dúvida e alguém está te ajudando, não chame essa pessoa no privado. A única excessão para esta regra é no caso de contratação/negociação de projetos. Para as demais questões, seja educado e espere a pessoa responder dentro da sua disponibilidade.
+2. <b>Não chame os membros do grupo no privado sem consentimento prévio</b>: Ao fazer isso, você está violando a Regra nº 1. Se você tem um problema/dúvida e alguém está te ajudando, não chame essa pessoa no privado. A única exceção para esta regra é no caso de contratação/negociação de projetos. Para as demais questões, seja educado e espere a pessoa responder dentro da sua disponibilidade.
 
 3. <b>Não responda às dúvidas dos membros com piadas:</b> Ex.: “Exclua a system32” ou “dê um sudo rm -rf  /”. Este tipo de comportamento não será tolerado.
 
