@@ -25,20 +25,21 @@ Claude Debussy
 
 1. <b>Não seja um cuzão</b>: Essa não precisa de maiores explicações, não é?
 
+2. <b>Não chame os membros do grupo no privado sem consentimento prévio</b>: Ao fazer isso, você está violando a Regra nº 1. Se você tem um problema/dúvida e alguém está te ajudando, não chame essa pessoa no privado. A única excessão para esta regra é no caso de contratação/negociação de projetos. Para as demais questões, seja educado e espere a pessoa responder dentro da sua disponibilidade.
 
-2. <b>Não responda às dúvidas dos membros com piadas:</b> Ex.: “Exclua a system32” ou “dê um sudo rm -rf  /”. Este tipo de comportamento não será tolerado.
+3. <b>Não responda às dúvidas dos membros com piadas:</b> Ex.: “Exclua a system32” ou “dê um sudo rm -rf  /”. Este tipo de comportamento não será tolerado.
 
-3. <b>Sobre vendedores:</b> Você pode oferecer seu produto, mas atentando à Regra 1. Não fique enchendo o saco de todo mundo enviando o mesmo link e dizendo as mesmas coisas.
+4. <b>Sobre vendedores:</b> Você pode oferecer seu produto, mas atentando à Regra 1. Não fique enchendo o saco de todo mundo enviando o mesmo link e dizendo as mesmas coisas.
 
-4. <b>Proibido o envio de conteúdo NSFW</b> (Pornografia, Racismo, links maliciosos e etc).
+5. <b>Proibido o envio de conteúdo NSFW</b> (Pornografia, Racismo, links maliciosos e etc).
 
-5. <b>Não poste spam ou coisas totalmente descorrelacionadas com OpenCV, Visão Computacional, PDI e Tecnologia</b>.
+6. <b>Não poste spam ou coisas totalmente descorrelacionadas com OpenCV, Visão Computacional, PDI e Tecnologia</b>.
 
-6. Lembre-se que com grandes poderes vem grandes responsabilidades...
+7. Lembre-se que com grandes poderes vem grandes responsabilidades...
 
-7. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for. Em caso de dúvida leia a regra 5.
+8. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for. Em caso de dúvida leia a regra 5.
 
-8. Seja direto ao ponto na sua dúvida. 
+9. Seja direto ao ponto na sua dúvida. 
     Exemplo: Eu tenho duvida em interface. 
     Nesse caso defina o que tem dúvida em interface, ou seja, defina um ponto e relate sua dúvida.
     Exemplo: Eu tenho dúvida qual melhor framework para interfaces.
