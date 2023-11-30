@@ -8,7 +8,7 @@
 
 <b>Objetivo da Comunidade:</b> Criar um ambiente <b>saudável e construtivo</b> de compartilhamento de conhecimento sobre Visão Computacional e suas diversas aplicações em problemas do mundo real.
 
-# Regras
+# Regras -  "Os 10 mandamentos do OpenCVismo"
 
 <div align="center">
     <p align="center">
