@@ -52,7 +52,7 @@ Claude Debussy
     - A pergunta torna a aparecer sobre qualidade de imagens da mesma pessoa e ainda informa que não leu o material.
     - Irá ser aplicado um gancho.
 
-    Na comunidade estamos para ajudar não fazer o caminho pelo membros, pode haver parceiria sim, mas isso tem que partir dos membros e forma orgânica.
+    Na comunidade estamos para ajudar, o caminho é feito pelos membros, pode haver parceiria sim, mas isso tem que partir dos membros e forma orgânica.
 
     Ficar pedindo ajuda e ficar cobrando resposta da comunidade também será aplicado gancho.
     
