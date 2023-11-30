@@ -58,6 +58,7 @@ Claude Debussy
     
     Com grandes poderes vem grandes responsabilidades, então use-as de forma coerente.    
     
-        
+    O grupo anda de forma assincrona, ou seja, nem sempre as respostas serão dadas na hora, nos esforçamos muito para responder rápido e nem sempre é possível.
+    Busque conhecimento no Google, isso sempre ajuda enquanto não tem uma resposta para sua dúvida.
 
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
