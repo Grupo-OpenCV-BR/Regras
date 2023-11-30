@@ -44,4 +44,20 @@ Claude Debussy
     Nesse caso defina o que tem dúvida em interface, ou seja, defina um ponto e relate sua dúvida.
     Exemplo: Eu tenho dúvida qual melhor framework para interfaces.
 
+10. Não desrespeite o tempo dos outros, se pediu ajuda e foi enviado material, analise-os e entenda se funciona ou não. Pedir ajuda e não se esforçar não será admitido.
+    Será aplicado gancho sem poder enviar mensagem no grupo por 24 horas, 48 horas e 72horas até a expulsão.    
+    Exemplo: 
+    - Eu tenho uma dúvida sobre qualidade de imagens
+    - Material enviado pela comunidade para leitura e entendimento.
+    - A pergunta torna a aparecer sobre qualidade de imagens da mesma pessoa e ainda informa que não leu o material.
+    - Irá ser aplicado um gancho.
+
+    Na comunidade estamos para ajudar não fazer o caminho pelo membros, pode haver parceiria sim, mas isso tem que partir dos membros e forma orgânica.
+
+    Ficar pedindo ajuda e ficar cobrando resposta da comunidade também será aplicado gancho.
+    
+    Com grandes poderes vem grandes responsabilidades, então use-as de forma coerente.    
+    
+        
+
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
