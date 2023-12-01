@@ -62,3 +62,11 @@ Claude Debussy
     Busque conhecimento no Google, isso sempre ajuda enquanto não tem uma resposta para sua dúvida.
 
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
+
+
+
+<div align="center">
+    <p align="center">
+    <img src="images/photo_2023-11-30_21-51-41.jpg">
+    </p>
+</div>
