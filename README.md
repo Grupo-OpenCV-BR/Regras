@@ -35,39 +35,33 @@ Claude Debussy
 
 6. <b>Não poste spam ou coisas totalmente descorrelacionadas com OpenCV, Visão Computacional, PDI e Tecnologia</b>.
 
-7. Lembre-se que com grandes poderes vem grandes responsabilidades...
+7. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for.
 
-8. Para reclamar do grupo, no minímo você tem que ter ajudado 3 pessoas diferentes, seja a reclamação que for. Em caso de dúvida leia a regra 5.
-
-9. Seja direto ao ponto na sua dúvida.
+8. Seja direto ao ponto na sua dúvida.
     
-    Exemplo 1: Eu tenho duvida em interface. 
-    Nesse caso defina o que tem dúvida em interface, ou seja, defina um ponto e relate sua dúvida.
+    Exemplo 1: Eu tenho duvida em interface. (_Nesse caso defina qual a sua dúvida em interface, ou seja, defina um ponto e relate sua dúvida_)
 
-   
     Exemplo 2: Eu tenho dúvida qual melhor framework para interfaces.
 
-    Exemplo 3 : bom dia
+    Exemplo 3 : mandar "bom dia" e ficar sem adicionar nada ou esperar que alguém responda. (Não mande este tipo de mensagem, pode ocasionar gancho)
 
-   
-    E ficar sem adicionar nada ou esperar que alguém responda. Isso não será feito e pode ocasionar gancho.
-
-11. Não desrespeite o tempo dos outros, se pediu ajuda e foi enviado material, analise-os e entenda se funciona ou não. Pedir ajuda e não se esforçar não será admitido.
-    Será aplicado gancho sem poder enviar mensagem no grupo por 24 horas, 48 horas e 72horas até a expulsão.    
+9. Não desrespeite o tempo dos outros, se pediu ajuda e foi enviado material, analise-os e entenda se funciona ou não. Pedir ajuda e não se esforçar não será admitido.
+    Será aplicado gancho sem poder enviar mensagem no grupo por 24 horas, 48 horas e 72 horas até a expulsão.    
     Exemplo: 
     - Eu tenho uma dúvida sobre qualidade de imagens
     - Material enviado pela comunidade para leitura e entendimento.
     - A pergunta torna a aparecer sobre qualidade de imagens da mesma pessoa e ainda informa que não leu o material.
-    - Irá ser aplicado um gancho.
+    - Será aplicado um gancho.
 
     Na comunidade estamos para ajudar, o caminho é feito pelos membros, pode haver parceiria sim, mas isso tem que partir dos membros e forma orgânica.
 
     Ficar pedindo ajuda e ficar cobrando resposta da comunidade também será aplicado gancho.
     
-    Com grandes poderes vem grandes responsabilidades, então use-as de forma coerente.    
-    
     O grupo anda de forma assincrona, ou seja, nem sempre as respostas serão dadas na hora, nos esforçamos muito para responder rápido e nem sempre é possível.
     Busque conhecimento no Google, isso sempre ajuda enquanto não tem uma resposta para sua dúvida.
+
+10. Lembre-se que com grandes poderes vem grandes responsabilidades... Então use-as de forma coerente.  
+
 
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
 
