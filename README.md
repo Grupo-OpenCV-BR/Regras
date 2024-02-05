@@ -69,6 +69,7 @@ Claude Debussy
 
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
 
+Ganchos são não poder enviar perguntas ao grupo. Por 24 horas na primeira, 48 na segunda e banimento no terceiro Gancho
 
 <div align="center">
     <p align="center">
