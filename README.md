@@ -45,7 +45,9 @@ Claude Debussy
 
     Exemplo 3 : mandar "bom dia" e ficar sem adicionar nada ou esperar que alguém responda. (Não mande este tipo de mensagem, pode ocasionar gancho)
 
-9. Não desrespeite o tempo dos outros, se pediu ajuda e foi enviado material, analise-os e entenda se funciona ou não. Pedir ajuda e não se esforçar não será admitido.
+    Obs : Ao acumular 3 ganchos será aplicado o banimento do membro.
+
+10. Não desrespeite o tempo dos outros, se pediu ajuda e foi enviado material, analise-os e entenda se funciona ou não. Pedir ajuda e não se esforçar não será admitido.
     Será aplicado gancho sem poder enviar mensagem no grupo por 24 horas, 48 horas e 72 horas até a expulsão.    
     Exemplo: 
     - Eu tenho uma dúvida sobre qualidade de imagens
@@ -60,11 +62,12 @@ Claude Debussy
     O grupo anda de forma assincrona, ou seja, nem sempre as respostas serão dadas na hora, nos esforçamos muito para responder rápido e nem sempre é possível.
     Busque conhecimento no Google, isso sempre ajuda enquanto não tem uma resposta para sua dúvida.
 
-10. Lembre-se que com grandes poderes vem grandes responsabilidades... Então use-as de forma coerente.  
+    Obs : Ao acumular 3 ganchos será aplicado o banimento do membro.
+
+12. Lembre-se que com grandes poderes vem grandes responsabilidades... Então use-as de forma coerente.  
 
 
 O descumprimento de qualquer uma das regras acima leva a banimento imediato!
-
 
 
 <div align="center">
